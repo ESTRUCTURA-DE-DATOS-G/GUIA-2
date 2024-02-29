@@ -46,4 +46,5 @@ a. La cantidad total de elementos de la matriz.
 c. 14
 
 ACTIVIDAD DE TRABAJO AUTONOMO 
+
 Link infografia: https://www.canva.com/design/DAF-IkOnspA/-8mQv1TAyMHtDxiGJfuZnA/edit?utm_content=DAF-IkOnspA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
